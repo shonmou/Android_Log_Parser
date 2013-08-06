@@ -1,2 +1,2 @@
-Androdi_Log_Parser
+Android_Log_Parser
 ==================
